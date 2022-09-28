@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/creative-app-studio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
